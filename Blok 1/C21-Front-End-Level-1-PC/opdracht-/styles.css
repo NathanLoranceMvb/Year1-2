@@ -1,0 +1,106 @@
+
+body{
+    margin: 1;
+    padding: 1;
+    font-family: sans-serif;
+    background-color: rgb(18, 19, 49);
+    }    
+    .container{
+    
+        position: relative;
+        width: 1200px;
+        height: 8000px;
+        margin: 10px auto;
+    }
+    .container .box{
+    
+        position: left;
+        height: calc(1090px - 50px);
+        width: calc(550px - 50px);
+        background: rgb(55, 57, 94);
+        float: left;
+        margin: 15px;
+        margin-left:2px;
+        box-sizing: border-box;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+    .container .box2{
+    
+        position: relative;
+        height: calc(330px - 50px);
+        width: calc(550px - 50px);
+        background: rgb(55, 57, 94);
+        float: left;
+        margin: 15px;
+        margin-left:2px;
+        box-sizing: border-box;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+     .container .box3{
+    
+        position: left;
+        height: calc(780px - 50px);
+        width: calc(550px - 50px);
+        background: rgb(55, 57, 94);
+        float: left;
+        margin: 15px;
+        margin-left:2px;
+        box-sizing: border-box;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+    .container .box4{
+    
+        position: left;
+        height: calc(322px - 50px);
+        width: calc(550px - 50px);
+        background: rgb(55, 57, 94);
+        float: left;
+        margin: 15px;
+        margin-left:2px;
+        box-sizing: border-box;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+    .container .box5{
+
+        position: left;
+        height: calc(344px - 50px);
+        width: calc(550px - 50px);
+        background: rgb(55, 57, 94);
+        float: left;
+        margin: 15px;
+        margin-left:2px;
+        box-sizing: border-box;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+    img{
+        max-width: 550px;
+        max-height: auto;
+    }
+    p { 
+        color:white; 
+        font-size: 20px;
+        text-align: left;
+        margin-top:10px;
+        margin-left: 5pt;
+    }
+    .link{
+        color:white; 
+        font-size: 35px;
+        text-align: center;
+        margin-top:10px;    
+    }    
+    .head{
+        color:white; 
+        font-size: 35px;
+        text-align: center;
+        margin-top:10px;
+    }
+
+
+
+    
