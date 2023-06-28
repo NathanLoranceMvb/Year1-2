@@ -1,0 +1,1 @@
+-- Opdracht 1 (LETOP: 3 INSERT INTO statements inleveren)
